@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Salaskar</h1>
 <h3 align="center">A passionate Software Engineer: Turning Lines of Code into Innovations!</h3>
 
-<img align="right" alt="Coding" width="400" border-radius="5%" src="giphy.gif">
+<img align="right" alt="Coding" width="400" style="border-radius: 50" src="giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsala2&label=Profile%20views&color=0e75b6&style=flat" alt="vsala2" /> </p>
 
 - 🔭 I’m currently working on [JavaScript30 Challenge with Wes Bos](https://vsala2.github.io/JavaScript30/)
