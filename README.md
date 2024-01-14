@@ -1,4 +1,4 @@
-
+<div align="center"><img src="banner.png"></div>
 <h1 align="center">Hi 👋, I'm Vaishnavi Salaskar</h1>
 <h3 align="center">A passionate Software Engineer: Turning Lines of Code into Innovations!</h3>
 
