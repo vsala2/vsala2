@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any intermediate Full Stack Development projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vsala2?tab=repositories](https://github.com/vsala2?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/vsala2?tab=repositories)
 
 - 💬 Ask me about **Java, JavaScript**
 
