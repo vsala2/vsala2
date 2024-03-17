@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsala2&label=Profile%20views&color=0e75b6&style=flat" alt="vsala2" /> </p>
 
-- 🔭 I’m currently working on [JavaScript30 Challenge with Wes Bos](https://vsala2.github.io/JavaScript30/)
+- 🔭 I’m currently working on [Blog Application(Backend) using Spring Boot](https://github.com/vsala2/Blog_Application-BackEnd).
 
 - 👯 I’m looking to collaborate on **any intermediate Full Stack Development projects.**
 
